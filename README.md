@@ -1,16 +1,25 @@
-# countries_app_with_http_dao
 
-A new Flutter project.
 
-## Getting Started
+<h2 align="center">
 
-This project is a starting point for a Flutter application.
+VİDEO OF THE APP
 
-A few resources to get you started if this is your first Flutter project:
+</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3 align="left">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+LİBRARİES:
+-Dio
+-Provider
+
+</h3>
+
+
+
+
+
+https://github.com/MuhammedAliYakisik/Countries-App/assets/129868370/6d3e3a55-300e-4b79-8abe-334b1458209d
+
+
+
+
